@@ -2,6 +2,13 @@
 🚀 Bem-vindo ao meu perfil no GitHub!
 Sou um entusiasta do desenvolvimento web e estudante de Análise e Desenvolvimento de Sistemas na Uninter. Sempre em busca de novos desafios e aprendizados, atualmente estudo JavaScript, TypeScript, React e desenvolvimento Front-End.
 
+Tecnologias e Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+                   
 🌱 Atualmente estou aprendendo:
  JavaScript, HTML5 e CSS3 para desenvolvimento web moderno;
    React e React Native para criação de aplicações interativas e responsivas;
