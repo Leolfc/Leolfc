@@ -3,11 +3,7 @@
 Sou um entusiasta do desenvolvimento web e estudante de Análise e Desenvolvimento de Sistemas na Uninter. Sempre em busca de novos desafios e aprendizados, atualmente estudo JavaScript, TypeScript, React e desenvolvimento Front-End.
 
 🌱 Atualmente estou aprendendo:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
  JavaScript, HTML5 e CSS3 para desenvolvimento web moderno;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
    React e React Native para criação de aplicações interativas e responsivas;
 TypeScript para uma tipagem mais segura e escalável no desenvolvimento;
 Programação Orientada a Objetos (POO) com JavaScript e TypeScript.
