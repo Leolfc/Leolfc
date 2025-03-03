@@ -1,7 +1,7 @@
 👋 Olá, me chamo Leonardo!  
 🚀 Bem-vindo ao meu perfil no GitHub!  
 
-Sou um entusiasta do desenvolvimento web e estudante de Análise e Desenvolvimento de Sistemas na Uninter. Sempre em busca de novos desafios e aprendizados, atualmente estudo **JavaScript, TypeScript, React e desenvolvimento Front-End**.  
+Sou um entusiasta do desenvolvimento web e estudante de Análise e Desenvolvimento de Sistemas na Uninter e também reforço meu conhecimento pela plataforma da Alura. Sempre em busca de novos desafios e aprendizados, atualmente estudo **JavaScript, TypeScript, React, Nextjs e desenvolvimento Front-End**.  
 
 ---
 
