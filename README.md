@@ -25,7 +25,8 @@ Sou um entusiasta do desenvolvimento web e estudante de Análise e Desenvolvimen
 - **JavaScript, HTML5 e CSS3** para desenvolvimento web moderno;  
 - **React e React Native** para criação de aplicações interativas e responsivas;  
 - **TypeScript** para uma tipagem mais segura e escalável no desenvolvimento;  
-- **Programação Orientada a Objetos (POO)** com JavaScript e TypeScript.  
+- **Programação Orientada a Objetos (POO)** com JavaScript e TypeScript.
+- **Programação Orientada a Objetos (POO)** com Java.
 
 ---
 
