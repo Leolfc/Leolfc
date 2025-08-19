@@ -1,7 +1,7 @@
 👋 Olá, me chamo Leonardo!  
 🚀 Bem-vindo ao meu perfil no GitHub!  
 
-Sou um entusiasta do desenvolvimento web e estudante de Análise e Desenvolvimento de Sistemas na Uninter e também reforço meu conhecimento pela plataforma da Alura. Sempre em busca de novos desafios e aprendizados, atualmente estudo **JavaScript, TypeScript, React, Nextjs e desenvolvimento Front-End**.  
+Sou um entusiasta do desenvolvimento web e estudante de Análise e Desenvolvimento de Sistemas na Uninter e também reforço meu conhecimento por fora da faculdade. Sempre em busca de novos desafios e aprendizados, atualmente estudo **JavaScript, TypeScript, React, Nextjs e desenvolvimento Front-End e Back-End**.  
 
 ---
 
@@ -23,8 +23,9 @@ Sou um entusiasta do desenvolvimento web e estudante de Análise e Desenvolvimen
 ---
 
 ## 🌱 Atualmente estou aprendendo:
-- **JavaScript, HTML5 e CSS3** para desenvolvimento web moderno;  
-- **React, React Native e Dart** para criação de aplicações interativas e responsivas;  
+- **JavaScript, HTML5 e CSS3** para desenvolvimento web moderno;
+-   Node.JS; 
+- **React, React Native ** para criação de aplicações interativas e responsivas;  
 - **TypeScript** para uma tipagem mais segura e escalável no desenvolvimento;  
 - **Programação Orientada a Objetos (POO)** com JavaScript e TypeScript.
 - **Programação Orientada a Objetos (POO)** com Java.
@@ -32,7 +33,7 @@ Sou um entusiasta do desenvolvimento web e estudante de Análise e Desenvolvimen
 ---
 
 ## 💡 Estou buscando colaborar em:
-- Projetos de **Front-End** utilizando **JavaScript, HTML5, CSS3, React e Vite**, entre outras tecnologias;  
+- Projetos de **Front-End e Back-end** utilizando **JavaScript, HTML5, CSS3, React e Vite**, entre outras tecnologias;  
 - Integração com **APIs** para consumo e exibição de dados dinâmicos;  
 - Desenvolvimento de **sites e aplicativos interativos**.  
 
