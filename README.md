@@ -62,6 +62,6 @@ Sou um entusiasta do desenvolvimento web e estudante de Análise e Desenvolvimen
 
 ## 🎯 Curiosidades sobre mim:
 - Além de programar, estou investindo no desenvolvimento pessoal com **PNL (Programação Neurolinguística)**;  
-- Já desenvolvi um **site de previsão do tempo** e estou criando um **app para isso**;  
+- Já desenvolvi um **projeto Full-Stack para uma hamburgueria, você pode conferir no meus repositorios esse e outros projetos**;  
 - Trabalho em **projetos freelancers**, como **sites para empresas e sistemas personalizados**.  
 
